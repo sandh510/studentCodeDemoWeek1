@@ -7,6 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  * This is the change i made.
+ * THIS IS THE ANOTHER CHANGE I MADE.
  * A class that creates an Array of Students and populates it
  * with 5 students from the current section and then iterates over the
  * list to print each name.
